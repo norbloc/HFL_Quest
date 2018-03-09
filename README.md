@@ -55,6 +55,9 @@ Hint5:
   
 Hint6:
   The function name fore task 3 is GetTransactionByID. CaSe MaTtErs!
+  
+Hint 7 - Task2 solution:
+ node quest query qscc GetBlockByNumber myc 430
 
 ### READY..
 
