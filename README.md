@@ -52,6 +52,9 @@ Hint4:
   
 Hint5:
   The function GetBlockByNumber takes two arguments. The first is the channel name. The second is the block number.
+  
+Hint6:
+  The function name fore task 3 is GetTransactionByID. CaSe MaTtErs!
 
 ### READY..
 
