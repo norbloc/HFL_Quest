@@ -1,0 +1,11 @@
+{
+  "name": "HLF_Quest",
+  "version": "0.0.0",
+  "description": "The Quest for the Hyperledger Meetup in Athens",
+  "main": "quest.js",
+  "repository": "",
+  "author": "norbloc AB",
+  "dependencies": {
+    "fabric-client": "~1.0.4"
+  }
+}
