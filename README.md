@@ -47,6 +47,9 @@ Hint2: To request a block you have to find a name of the system chaincode which 
 
 Hint3: [104,105,110,116,58,104,116,116,112,115,58,47,47,103,105,116,104,117,98,46,99,111,109,47,104,121,112,101,114,108,101,100,103,101,114,47,102,97,98,114,105,99,47,116,114,101,101,47,109,97,115,116,101,114,47,99,111,114,101,47,115,99,99,47,113,115,99,99]
 
+Hint4:
+  The id of the system chaincode is 'qscc'. The name of the function is 'GetBlockByNumber'
+
 ### READY..
 
 ### STEADY ...
