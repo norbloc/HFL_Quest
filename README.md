@@ -43,3 +43,7 @@ Hint1: To complete task 2 you must refer to the Hyperledger Fabric documentation
 
 ### STEADY ...
 
+### GO!
+
+First task:
+Task1: Query the function getTheSecondTask from the chaincode with id "questfirst"
