@@ -37,7 +37,14 @@ During the Quest the players will be given hints.
 The hints will be added to this README file.
 The players are supposed to do the "git pull" to update this file when a new hint is announced.
 
-Hint1: To complete task 2 you must refer to the Hyperledger Fabric documentation available online. 
+Hint0.5: To complete the first task you must _query_ _questfirst_ _getTheSecondTask_
+
+ $ node quest query questfirst getTheSecondTask
+
+Hint1: To complete task 2 you must refer to the Hyperledger Fabric documentation available online.  
+
+Hint2: To request a block you have to find a name of the system chaincode which has functions for the task.
+
 
 ### READY..
 
