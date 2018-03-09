@@ -49,6 +49,9 @@ Hint3: [104,105,110,116,58,104,116,116,112,115,58,47,47,103,105,116,104,117,98,4
 
 Hint4:
   The id of the system chaincode is 'qscc'. The name of the function is 'GetBlockByNumber'
+  
+Hint5:
+  The function GetBlockByNumber takes two arguments. The first is the channel name. The second is the block number.
 
 ### READY..
 
